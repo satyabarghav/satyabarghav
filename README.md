@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyabarghav
 - 👀 I’m interested in Learning Tech
-- 🌱 I’m currently learning Scratch
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me https://instagram.com/satyabarghav/
 
 <!---
