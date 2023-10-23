@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satyabarghav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyabarghav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###🏅 Badges:
+# 🏅 Badges:
 [![An image of @satyabarghav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyabarghav)](https://holopin.io/@satyabarghav)
 
 
